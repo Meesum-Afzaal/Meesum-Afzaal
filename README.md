@@ -3,7 +3,7 @@
 
 - 🤖 I'm currently diving into **Artificial Intelligence and Machine Learning** using Python
 - 📱 I've successfully expanded my expertise to **Cross-Platform Development with Flutter**
-- 🤝 I'm actively seeking opportunities to collaborate on **Innovative Android & Mobile Development Projects**
+- 🤝 I'm actively seeking opportunities to collaborate on **Innovative Mobile Application Development Projects**
 - 💼 Explore my portfolio and open-source contributions at [https://github.com/Meesum-Afzaal?tab=repositories](https://github.com/Meesum-Afzaal?tab=repositories)
 - 📧 Connect with me at **meesumafzal@gmail.com**
 
