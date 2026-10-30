@@ -1,103 +1,103 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,50:0077B6,100:00D4FF&height=220&section=header&text=MEESUM%20AFZAAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Flutter%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=17&descAlignY=58&descColor=E0F7FF" width="100%"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Cross-Platform+Mobile+Applications;Engineering+with+Flutter+%26+Dart;Exploring+Cybersecurity+%26+Network+Security;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
+# MEESUM AFZAAL
+
+### Flutter Developer | Computer Science Graduate | Cybersecurity Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=9D6BFF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+Cross-Platform+Mobile+Applications;Developing+Real-Time+Application+Experiences;Exploring+Linux%2C+Networking+%26+Cybersecurity;Learning+Through+Hands-On+Security+Labs" alt="Typing animation" />
 
 <br/>
 
 <a href="https://github.com/Meesum-Afzaal">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-171321?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/meesum-afzaal-85ba21355/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-171321?style=for-the-badge&logo=linkedin&logoColor=9D6BFF" alt="LinkedIn"/>
 </a>
 <a href="mailto:meesumafzal@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-171321?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT ME
 
-I'm a Computer Science graduate and Flutter Developer focused on engineering cross-platform mobile applications. My development experience includes real-time communication systems, backend integrations, authentication, database management, and interactive application interfaces.
+I'm a Computer Science graduate focused on cross-platform mobile application development using Flutter and Dart.
 
-Beyond application development, I'm expanding my technical expertise into cybersecurity, exploring network security, Linux environments, system vulnerabilities, and security operations.
+I enjoy building applications that combine intuitive interfaces, real-time functionality, authentication, and backend integrations. My development experience includes working with Supabase, Firebase, REST APIs, and backend services.
 
-- 📱 Developing cross-platform applications with Flutter and Dart.
-- ⚙️ Integrating REST APIs, Firebase, and Supabase.
-- 🧩 Building real-time applications and backend-driven systems.
-- 🔐 Expanding my knowledge of cybersecurity and network security.
-- 🐧 Working with Linux and Kali Linux environments.
-- 🎯 Practicing cybersecurity through TryHackMe.
+Alongside software engineering, I'm developing my cybersecurity knowledge through structured coursework and hands-on labs, focusing on networking, Linux, security fundamentals, and security operations.
 
 ---
 
-## ⚡ Technical Arsenal
+## TECHNICAL EXPERTISE
 
 <div align="center">
 
-### Mobile Application Development
+### Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Flutter, Dart and Android Studio"/>
 
-### Backend & Database Technologies
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,fastapi,mysql,sqlite,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,supabase,postgres,mysql,sqlite&theme=dark" alt="Backend and database technologies"/>
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" alt="Programming languages"/>
 
-### Development Tools & Environments
+### Development Tools & Systems
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,kali,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,kali,bash,aws&theme=dark" alt="Development tools and systems"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Engineering Projects
+## FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">YAPTER</h3>
+### Yapter
 
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-Mobile_App-02569B?style=flat-square&logo=flutter"/>
-<img src="https://img.shields.io/badge/Realtime-Messaging-00A884?style=flat-square"/>
-</p>
+**Real-Time Messaging Application**
 
-A WhatsApp-inspired real-time messaging application featuring:
+A WhatsApp-inspired mobile messaging application developed using Flutter.
 
-- Real-time messaging and conversations.
-- Online presence and typing indicators.
-- Read receipts and message pagination.
-- Phone number authentication.
-- Custom Neumorphic interface.
+- Real-time messaging and conversation management
+- Online presence and typing indicators
+- Message read receipts
+- Paginated message loading
+- Phone number authentication
+- Custom Neumorphic interface
+
+**Technologies**
+
+`Flutter` `Dart` `Supabase` `Riverpod`
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">ANXICODE</h3>
+### AnxiCode
 
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter"/>
-<img src="https://img.shields.io/badge/Docker-Execution-2496ED?style=flat-square&logo=docker"/>
-</p>
+**Gamified Coding & Battle Platform**
 
-A gamified programming platform combining coding education with competitive programming battles.
+A coding education platform combining interactive programming challenges with competitive coding battles.
 
-- Interactive coding challenges.
-- Competitive real-time battles.
-- Supabase database and realtime.
-- FastAPI backend integration.
-- TypeScript-based code editor.
-- Docker-based code execution.
+- Multi-stage programming practice
+- Real-time competitive coding battles
+- Backend and database integration
+- Docker-based isolated code execution
+- TypeScript web-based code editor
+
+**Technologies**
+
+`Flutter` `FastAPI` `Supabase` `Docker` `TypeScript`
 
 </td>
 </tr>
@@ -106,65 +106,79 @@ A gamified programming platform combining coding education with competitive prog
 <div align="center">
 
 <a href="https://github.com/Meesum-Afzaal?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-171321?style=for-the-badge&logo=github&logoColor=9D6BFF" alt="Explore projects"/>
 </a>
 
 </div>
 
 ---
 
-## 🛡️ Cybersecurity & Technical Development
+## CYBERSECURITY LEARNING
 
-Currently expanding my Computer Science foundation into cybersecurity through structured learning and practical exercises.
+Developing a cybersecurity foundation through the Google Cybersecurity Professional Certificate and practical TryHackMe exercises.
 
-**Completed Learning | Google Cybersecurity Professional Certificate**
+**Google Cybersecurity Courses Completed**
 
 - Foundations of Cybersecurity
-- Security Risks, Threats & Vulnerabilities
-- Network Architecture & Security Protocols
-- Linux Command-Line Operations
-- SQL & Database Fundamentals
-- Security Frameworks & Risk Management
+- Play It Safe: Manage Security Risks
+- Connect and Protect: Networks and Network Security
+- Tools of the Trade: Linux and SQL
+- Assets, Threats, and Vulnerabilities
 
-**Current Focus**
+**Additional Training**
 
-- TryHackMe practical learning paths.
-- Network security and traffic analysis.
-- Linux system administration.
-- Security operations fundamentals.
-- Threat detection and vulnerability assessment.
+- AWS Academy Cloud Foundations
+
+**Current Learning Focus**
+
+- Network security and protocols
+- Linux command-line operations
+- Security risks, threats, and vulnerabilities
+- Security frameworks and controls
+- Security monitoring and SIEM fundamentals
+- Alert triage and threat detection
+- Hands-on cybersecurity labs
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Environment-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Platform-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Network_Security-00A86B?style=flat-square"/>
+<a href="https://tryhackme.com/">
+  <img src="https://img.shields.io/badge/TryHackMe-Learning-171321?style=for-the-badge&logo=tryhackme&logoColor=9D6BFF" alt="TryHackMe"/>
+</a>
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-171321?style=for-the-badge&logo=google&logoColor=9D6BFF" alt="Google Cybersecurity"/>
+</a>
+<a href="https://aws.amazon.com/training/awsacademy/">
+  <img src="https://img.shields.io/badge/AWS-Academy-171321?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Academy"/>
+</a>
 
 </div>
 
 ---
 
-## 🔬 Current Technical Interests
+## AREAS OF INTEREST
 
-| Domain | Areas of Exploration |
+| Area | Focus |
 |:---|:---|
-| Mobile Engineering | Flutter, Dart, Cross-Platform Development |
-| Backend Engineering | REST APIs, Firebase, Supabase |
+| Mobile Engineering | Flutter, Dart, Android |
+| Backend Development | FastAPI, REST APIs, Supabase |
+| Application Architecture | Authentication, Real-Time Systems |
 | Cybersecurity | Security Operations, Threat Detection |
-| Networking | TCP/IP, Protocols, Network Security |
+| Networking | TCP/IP, DNS, VPN, Firewalls |
 | Operating Systems | Linux, Kali Linux, Bash |
-| Programming | Python, C++, Java, Dart |
+| Databases | PostgreSQL, MySQL, SQLite |
 
 ---
 
 <div align="center">
 
-### Let's Connect & Build Something Meaningful
+### BUILD. LEARN. IMPROVE.
 
-<a href="mailto:meesumafzal@gmail.com">meesumafzal@gmail.com</a>
+**Software Engineering · Mobile Development · Cybersecurity**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0077B6,100:050A18&height=110&section=footer" width="100%"/>
+<a href="https://github.com/Meesum-Afzaal">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/meesum-afzaal-85ba21355/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:meesumafzal@gmail.com">Email</a>
 
 </div>
