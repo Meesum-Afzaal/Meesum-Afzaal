@@ -1,101 +1,141 @@
-# 👋 Hi, I'm Meesum Afzaal
+ <h1 align="center">Meesum Afzaal</h1>
 
-### Flutter Developer | Cross-Platform Mobile App Developer | Cybersecurity Enthusiast
+<h3 align="center">Flutter Developer | Mobile Application Engineer | Cybersecurity Enthusiast</h3>
 
-I'm a Computer Science graduate and Flutter Developer passionate about building modern, scalable, and user-friendly mobile applications. I enjoy exploring new technologies, solving technical challenges, and continuously expanding my knowledge across software development and cybersecurity.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Mobile_Development-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-Programming_Language-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Currently_Learning-2E8B57?style=flat-square&logo=kalilinux&logoColor=white"/>
+</p>
 
-- 📱 **Mobile Development:** Developing cross-platform applications using Flutter and Dart.
-- 🛡️ **Cybersecurity:** Currently expanding my knowledge of cybersecurity, networking, Linux, SQL, and security fundamentals.
-- ⚡ **State Management:** Experienced with Riverpod and Bloc/Cubit.
-- 🔥 **Backend & APIs:** Working with Firebase, Supabase, and REST APIs.
-- 🎯 **Currently Exploring:** Practical cybersecurity, security operations, and hands-on labs.
-- 💻 **Projects:** Explore my [GitHub repositories](https://github.com/Meesum-Afzaal?tab=repositories).
-- 📧 **Email:** meesumafzal@gmail.com
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/meesum-afzaal-85ba21355/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:meesumafzal@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Meesum-Afzaal">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Meesum-Afzaal">GitHub</a> •
+  <a href="https://www.linkedin.com/in/meesum-afzaal-85ba21355/">LinkedIn</a> •
+  <a href="mailto:meesumafzal@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools
+## `$ whoami`
 
-**Mobile Development**
+Computer Science graduate specializing in cross-platform mobile application development with Flutter and Dart. Interested in software architecture, backend integration, application security, and cybersecurity.
+
+I focus on developing functional applications, implementing real-time features, integrating backend services, and exploring technologies that contribute to secure and reliable software systems.
+
+- **Primary Domain:** Cross-Platform Mobile Development
+- **Programming:** Dart, Python, C++, C, Java
+- **Backend Integration:** REST APIs, Firebase, Supabase
+- **Current Focus:** Cybersecurity, Network Security, Linux, and SQL
+- **Learning Platform:** Google Cybersecurity Professional Certificate & TryHackMe
+
+---
+
+## `$ tech_stack`
+
+**Mobile Application Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
 </p>
 
-**State Management & Backend**
+**Backend & Database Technologies**
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite"/>
 </p>
 
 **Programming Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
 </p>
 
-**Database & Development Tools**
+**Development Environment & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
-**Cybersecurity & Operating Systems**
+**Operating Systems & Security Environment**
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash"/>
 </p>
 
 ---
 
-### 🔐 Cybersecurity Learning Journey
+## `$ engineering_projects`
 
-Currently building a strong foundation in cybersecurity through structured learning and practical exploration.
+### 01. Yapter | Real-Time Messaging Application
 
-Areas of focus:
+A WhatsApp-inspired messaging application developed using Flutter, focusing on real-time communication and modern mobile application architecture.
 
-- Networking Fundamentals & Network Protocols
-- Linux Command Line & System Administration
-- SQL & Database Fundamentals
-- Security Principles & Risk Management
-- Threats, Vulnerabilities & Security Controls
-- Cybersecurity Frameworks & Security Operations
+**Technical Implementation**
+- Real-time messaging and conversation management.
+- Online presence and typing indicators.
+- Message delivery and read receipts.
+- Paginated message retrieval.
+- Phone number authentication.
+- Backend integration and custom Neumorphic UI.
 
-**Learning Platforms:** Google Cybersecurity Professional Certificate | TryHackMe
+### 02. AnxiCode | Gamified Coding Platform
+
+A competitive coding and programming education platform designed around interactive challenges, coding battles, and progressive learning.
+
+**Technical Implementation**
+- Flutter-based mobile application.
+- Supabase database and real-time communication.
+- FastAPI backend integration.
+- TypeScript-based web code editor.
+- Docker-based code execution environment.
+- Competitive coding battles and progression system.
 
 ---
 
-### 📊 GitHub Statistics
+## `$ cybersecurity`
+
+Expanding my technical background into cybersecurity, with an emphasis on understanding network infrastructure, operating systems, security principles, and practical security operations.
+
+**Completed Coursework | Google Cybersecurity Professional Certificate**
+
+- Foundations of Cybersecurity
+- Play It Safe: Manage Security Risks
+- Connect and Protect: Networks and Network Security
+- Tools of the Trade: Linux and SQL
+
+**Technical Knowledge Acquired**
+- TCP/IP, OSI Model, Network Protocols and Network Architecture
+- Linux Command-Line Operations and File Permissions
+- SQL Queries, Filtering, and Database Operations
+- CIA Triad and Security Frameworks
+- Threats, Vulnerabilities, and Risk Management
+- Security Controls and Network Security Fundamentals
+
+**Currently Working On**
+- TryHackMe practical cybersecurity labs.
+- Linux and networking exercises.
+- Security operations and threat detection fundamentals.
+- Developing hands-on cybersecurity skills.
+
+---
+
+## `$ current_focus`
+
+| Domain | Focus |
+|---|---|
+| Mobile Development | Building cross-platform applications with Flutter |
+| Backend Integration | REST APIs, Firebase, Supabase |
+| Cybersecurity | Practical security fundamentals |
+| Operating Systems | Linux and Kali Linux |
+| Networking | Protocols, infrastructure, and security |
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Meesum-Afzaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meesum-Afzaal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <b>Building software. Understanding systems. Exploring security.</b>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Meesum-Afzaal&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Pakistan-006600?style=flat-square"/>
 </p>
-
----
-
-### 💡 What I Believe
-
-Continuous learning, practical experience, and curiosity are the foundations of becoming a better engineer.
-
-**Building applications. Exploring security. Growing every day.** 🚀
