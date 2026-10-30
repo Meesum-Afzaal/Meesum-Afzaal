@@ -1,141 +1,115 @@
- <h1 align="center">Meesum Afzaal</h1>
+<div align="center">
 
-<h3 align="center">Flutter Developer | Mobile Application Engineer | Cybersecurity Enthusiast</h3>
+# MEESUM AFZAAL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Mobile_Development-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-Programming_Language-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Currently_Learning-2E8B57?style=flat-square&logo=kalilinux&logoColor=white"/>
+### Flutter Developer · Computer Science Graduate · Cybersecurity Enthusiast
+
+**Designing and developing mobile applications | Exploring systems and security**
+
+<p>
+<a href="https://github.com/Meesum-Afzaal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/meesum-afzaal-85ba21355/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:meesumafzal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Meesum-Afzaal">GitHub</a> •
-  <a href="https://www.linkedin.com/in/meesum-afzaal-85ba21355/">LinkedIn</a> •
-  <a href="mailto:meesumafzal@gmail.com">Email</a>
-</p>
+</div>
 
 ---
 
-## `$ whoami`
+## ABOUT
 
-Computer Science graduate specializing in cross-platform mobile application development with Flutter and Dart. Interested in software architecture, backend integration, application security, and cybersecurity.
+I'm a Computer Science graduate focused on cross-platform mobile application development with Flutter and Dart. My development experience includes building real-time applications, integrating backend services, implementing authentication, and developing interactive user interfaces.
 
-I focus on developing functional applications, implementing real-time features, integrating backend services, and exploring technologies that contribute to secure and reliable software systems.
+Alongside software development, I'm expanding my technical expertise into cybersecurity, with a growing interest in network security, Linux systems, vulnerability assessment, and security operations.
 
-- **Primary Domain:** Cross-Platform Mobile Development
-- **Programming:** Dart, Python, C++, C, Java
-- **Backend Integration:** REST APIs, Firebase, Supabase
-- **Current Focus:** Cybersecurity, Network Security, Linux, and SQL
-- **Learning Platform:** Google Cybersecurity Professional Certificate & TryHackMe
+## TECHNICAL EXPERTISE
 
----
-
-## `$ tech_stack`
-
-**Mobile Application Development**
+**Mobile & Application Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
 </p>
 
-**Backend & Database Technologies**
+**Backend, APIs & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,fastapi,mysql,sqlite,postman"/>
 </p>
 
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
 </p>
 
-**Development Environment & Tools**
+**Development & Systems**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,bash,docker"/>
 </p>
 
-**Operating Systems & Security Environment**
+## SELECTED PROJECTS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash"/>
-</p>
+### YAPTER
+**Real-Time Messaging | Flutter | Supabase**
 
----
+A WhatsApp-inspired messaging application developed with a focus on real-time communication, modern UI design, and reliable messaging functionality.
 
-## `$ engineering_projects`
-
-### 01. Yapter | Real-Time Messaging Application
-
-A WhatsApp-inspired messaging application developed using Flutter, focusing on real-time communication and modern mobile application architecture.
-
-**Technical Implementation**
 - Real-time messaging and conversation management.
 - Online presence and typing indicators.
-- Message delivery and read receipts.
-- Paginated message retrieval.
+- Read receipts and message pagination.
 - Phone number authentication.
-- Backend integration and custom Neumorphic UI.
+- Custom Neumorphic user interface.
 
-### 02. AnxiCode | Gamified Coding Platform
+### ANXICODE
+**Competitive Coding Platform | Flutter | FastAPI | Supabase**
 
-A competitive coding and programming education platform designed around interactive challenges, coding battles, and progressive learning.
+A gamified programming platform combining interactive coding education with competitive programming battles.
 
-**Technical Implementation**
-- Flutter-based mobile application.
-- Supabase database and real-time communication.
-- FastAPI backend integration.
-- TypeScript-based web code editor.
+- Interactive coding challenges and progression system.
+- Real-time competitive battles.
+- Supabase database and real-time infrastructure.
+- FastAPI backend and TypeScript-based code editor.
 - Docker-based code execution environment.
-- Competitive coding battles and progression system.
 
----
+## CYBERSECURITY & CONTINUOUS LEARNING
 
-## `$ cybersecurity`
+Currently developing practical cybersecurity knowledge through structured coursework and hands-on exercises.
 
-Expanding my technical background into cybersecurity, with an emphasis on understanding network infrastructure, operating systems, security principles, and practical security operations.
+**Google Cybersecurity Professional Certificate**
 
-**Completed Coursework | Google Cybersecurity Professional Certificate**
+Completed four courses covering:
 
-- Foundations of Cybersecurity
-- Play It Safe: Manage Security Risks
-- Connect and Protect: Networks and Network Security
-- Tools of the Trade: Linux and SQL
+- Cybersecurity foundations and security principles.
+- Security risks, threats, and vulnerabilities.
+- Networking architecture and security protocols.
+- Linux command-line operations and file permissions.
+- SQL queries and database operations.
 
-**Technical Knowledge Acquired**
-- TCP/IP, OSI Model, Network Protocols and Network Architecture
-- Linux Command-Line Operations and File Permissions
-- SQL Queries, Filtering, and Database Operations
-- CIA Triad and Security Frameworks
-- Threats, Vulnerabilities, and Risk Management
-- Security Controls and Network Security Fundamentals
+**Current Learning Path**
 
-**Currently Working On**
-- TryHackMe practical cybersecurity labs.
-- Linux and networking exercises.
-- Security operations and threat detection fundamentals.
-- Developing hands-on cybersecurity skills.
+- TryHackMe practical security labs.
+- Network security and traffic analysis.
+- Linux system administration.
+- Security operations and threat detection.
+- Vulnerability assessment fundamentals.
 
----
+## CURRENT TECHNICAL INTERESTS
 
-## `$ current_focus`
-
-| Domain | Focus |
+| Area | Focus |
 |---|---|
-| Mobile Development | Building cross-platform applications with Flutter |
-| Backend Integration | REST APIs, Firebase, Supabase |
-| Cybersecurity | Practical security fundamentals |
-| Operating Systems | Linux and Kali Linux |
-| Networking | Protocols, infrastructure, and security |
+| Mobile Engineering | Flutter, Dart, application architecture |
+| Backend Engineering | REST APIs, Firebase, Supabase |
+| Cybersecurity | Security fundamentals, threat detection |
+| Networking | TCP/IP, protocols, network infrastructure |
+| Operating Systems | Linux, Kali Linux |
 
 ---
 
-<p align="center">
-  <b>Building software. Understanding systems. Exploring security.</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Pakistan-006600?style=flat-square"/>
-</p>
+**BUILDING APPLICATIONS. UNDERSTANDING SYSTEMS. ENGINEERING SECURE SOLUTIONS.**
+
+<sub>Always learning. Always building.</sub>
+
+</div>
