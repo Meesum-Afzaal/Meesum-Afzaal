@@ -1,18 +1,101 @@
-<h1 align="center">Hi 👋, I'm Meesum Afzaal</h1>
-<h3 align="center">A passionate Android App developer from Pakistan</h3>
+# 👋 Hi, I'm Meesum Afzaal
 
-- 🤖 I'm currently diving into **Artificial Intelligence and Machine Learning** using Python
-- 📱 I've successfully expanded my expertise to **Cross-Platform Development with Flutter**
-- 🤝 I'm actively seeking opportunities to collaborate on **Innovative Mobile Application Development Projects**
-- 💼 Explore my portfolio and open-source contributions at [https://github.com/Meesum-Afzaal?tab=repositories](https://github.com/Meesum-Afzaal?tab=repositories)
-- 📧 Connect with me at **meesumafzal@gmail.com**
+### Flutter Developer | Cross-Platform Mobile App Developer | Cybersecurity Enthusiast
 
-<h3 align="left">Connect with me:</h3>
+I'm a Computer Science graduate and Flutter Developer passionate about building modern, scalable, and user-friendly mobile applications. I enjoy exploring new technologies, solving technical challenges, and continuously expanding my knowledge across software development and cybersecurity.
+
+- 📱 **Mobile Development:** Developing cross-platform applications using Flutter and Dart.
+- 🛡️ **Cybersecurity:** Currently expanding my knowledge of cybersecurity, networking, Linux, SQL, and security fundamentals.
+- ⚡ **State Management:** Experienced with Riverpod and Bloc/Cubit.
+- 🔥 **Backend & APIs:** Working with Firebase, Supabase, and REST APIs.
+- 🎯 **Currently Exploring:** Practical cybersecurity, security operations, and hands-on labs.
+- 💻 **Projects:** Explore my [GitHub repositories](https://github.com/Meesum-Afzaal?tab=repositories).
+- 📧 **Email:** meesumafzal@gmail.com
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/meesum-afzaal-85ba21355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meesum-afzaal-85ba21355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/meesum-afzaal-85ba21355/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:meesumafzal@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Meesum-Afzaal">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meesum-afzaal&show_icons=true&locale=en&layout=compact" alt="meesum-afzaal" /></p>
+### 🛠️ Languages, Frameworks & Tools
+
+**Mobile Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+</p>
+
+**State Management & Backend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
+
+**Database & Development Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman" />
+</p>
+
+**Cybersecurity & Operating Systems**
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+</p>
+
+---
+
+### 🔐 Cybersecurity Learning Journey
+
+Currently building a strong foundation in cybersecurity through structured learning and practical exploration.
+
+Areas of focus:
+
+- Networking Fundamentals & Network Protocols
+- Linux Command Line & System Administration
+- SQL & Database Fundamentals
+- Security Principles & Risk Management
+- Threats, Vulnerabilities & Security Controls
+- Cybersecurity Frameworks & Security Operations
+
+**Learning Platforms:** Google Cybersecurity Professional Certificate | TryHackMe
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Meesum-Afzaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meesum-Afzaal&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Meesum-Afzaal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💡 What I Believe
+
+Continuous learning, practical experience, and curiosity are the foundations of becoming a better engineer.
+
+**Building applications. Exploring security. Growing every day.** 🚀
